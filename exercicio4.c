@@ -2,8 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <locale.h>
-#include <time.h>
-#include <ctype.h>
+
   
  struct ContaBancaria 
  { 
